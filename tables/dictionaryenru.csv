@@ -1,0 +1,473 @@
+﻿№;Раздел;Английский;Русский
+1;Conditions / Состояния;Blinded; Ослеплённый
+2;Conditions / Состояния;Charmed; Очарованный
+3;Conditions / Состояния;Deafened; Оглохший
+4;Conditions / Состояния;Frightened; Испуганный
+5;Conditions / Состояния;Grappled; Схваченный
+6;Conditions / Состояния;Incapacitated; Недееспособный
+7;Conditions / Состояния;Invisible; Невидимый
+8;Conditions / Состояния;Paralyzed; Парализованный
+9;Conditions / Состояния;Petrified; Окаменевший
+10;Conditions / Состояния;Poisoned; Отравленный
+11;Conditions / Состояния;Prone; Сбитый с ног / Лежащий ничком
+13;Conditions / Состояния;Restrained; Опутанный
+14;Conditions / Состояния;Stunned; Ошеломлённый
+15;Conditions / Состояния;Unconscious; Бессознательный 
+16;Feats / Черты;Actor; Артистичный
+17;Feats / Черты;Alert; Бдительный
+18;Feats / Черты;Athlete; Атлетичный
+19;Feats / Черты;Charger; Налётчик
+20;Feats / Черты;Crossbow Expert; Эксперт в арбалетах
+21;Feats / Черты;Defensive Duelist; Оборонительный дуэлянт
+22;Feats / Черты;Dual Wielder; Двойное оружие
+23;Feats / Черты;Dungeon Delver; Исследователь подземелий
+24;Feats / Черты;Durable; Стойкий
+25;Feats / Черты;Elemental Adept; Стихийный адепт
+26;Feats / Черты;Grappler; Борец
+27;Feats / Черты;Great Weapon Master; Мастер большого оружия
+28;Feats / Черты;Healer; Лекарь
+29;Feats / Черты;Heavily Armored; Знаток тяжёлых доспехов
+30;Feats / Черты;Heavy Armor Master; Мастер тяжёлых доспехов
+31;Feats / Черты;Inspiring Leader; Воодушевляющий лидер
+32;Feats / Черты;Keen Mind; Отличная память
+33;Feats / Черты;Lightly Armored; Знаток лёгких доспехов
+34;Feats / Черты;Linguist; Языковед
+35;Feats / Черты;Lucky; Везунчик
+36;Feats / Черты;Mage Slayer; Убийца магов
+37;Feats / Черты;Magic Initiate; Посвящённый в магию
+38;Feats / Черты;Martial Adept; Воинский адепт
+39;Feats / Черты;Medium Armor Master; Мастер средних доспехов
+40;Feats / Черты;Mobile; Подвижный
+41;Feats / Черты;Moderately Armored; Знаток средних доспехов
+42;Feats / Черты;Mounted Combatant; Верховой боец
+43;Feats / Черты;Observant; Внимательный
+44;Feats / Черты;Polearm Master; Мастер древкового оружия
+45;Feats / Черты;Resilient; Устойчивый
+46;Feats / Черты;Ritual Caster; Ритуальный заклинатель
+47;Feats / Черты;Savage Attacker; Дикий атакующий
+48;Feats / Черты;Sentinel; Страж
+49;Feats / Черты;Sharpshooter; Меткий стрелок
+50;Feats / Черты;Shield Master; Мастер щитов
+51;Feats / Черты;Skilled; Одарённый
+52;Feats / Черты;Skulker; Проныра
+53;Feats / Черты;Spell Sniper; Меткие заклинания
+54;Feats / Черты;Tavern Brawler; Драчун
+55;Feats / Черты;Tough; Крепкий
+56;Feats / Черты;War Caster; Боевой заклинатель
+57;Feats / Черты;Weapon Master; Мастер оружия
+58;Skills / Навыки;Acrobatics; Акробатика
+59;Skills / Навыки;Animal Handling; Уход за животными
+60;Skills / Навыки;Arcana; Магия
+61;Skills / Навыки;Athletics; Атлетика
+62;Skills / Навыки;Deception; Обман
+63;Skills / Навыки;History; История
+64;Skills / Навыки;Insight; Проницательность
+65;Skills / Навыки;Intimidation; Запугивание
+66;Skills / Навыки;Investigation; Анализ
+67;Skills / Навыки;Medicine; Медицина
+68;Skills / Навыки;Nature; Природа
+69;Skills / Навыки;Perception; Внимательность
+70;Skills / Навыки;Performance; Выступление
+71;Skills / Навыки;Persuasion; Убеждение
+72;Skills / Навыки;Religion; Религия
+73;Skills / Навыки;Sleight of Hand; Ловкость рук
+74;Skills / Навыки;Stealth; Скрытность
+75;Skills / Навыки;Survival; Выживание
+76;Weapon / Оружие;Battleaxe; Боевой топор
+77;Weapon / Оружие;Blowgun; Духовая трубка
+78;Weapon / Оружие;Club; Дубинка
+79;Weapon / Оружие;Crossbow, hand; Арбалет, ручной
+80;Weapon / Оружие;Crossbow, heavy; Арбалет, тяжёлый
+81;Weapon / Оружие;Crossbow, light; Арбалет, лёгкий
+82;Weapon / Оружие;Dagger; Кинжал
+83;Weapon / Оружие;Dart; Дротик
+84;Weapon / Оружие;Flail; Цеп
+85;Weapon / Оружие;Glaive; Глефа
+86;Weapon / Оружие;Greataxe; Секира
+87;Weapon / Оружие;Greatclub; Палица
+88;Weapon / Оружие;Greatsword; Двуручный меч
+89;Weapon / Оружие;Halberd; Алебарда
+90;Weapon / Оружие;Handaxe; Ручной топор
+91;Weapon / Оружие;Javelin; Метательное копьё
+92;Weapon / Оружие;Lance; Длинное копьё
+93;Weapon / Оружие;Light hammer; Лёгкий молот
+94;Weapon / Оружие;Longbow; Длинный лук
+95;Weapon / Оружие;Longsword; Длинный меч
+96;Weapon / Оружие;Mace; Булава
+97;Weapon / Оружие;Maul; Молот
+98;Weapon / Оружие;Morningstar; Моргенштерн
+99;Weapon / Оружие;Net; Сеть
+100;Weapon / Оружие;Pike; Пика
+101;Weapon / Оружие;Quarterstaff; Боевой посох
+102;Weapon / Оружие;Rapier; Рапира
+103;Weapon / Оружие;Scimitar; Скимитар
+104;Weapon / Оружие;Shortbow; Короткий лук
+105;Weapon / Оружие;Shortsword; Короткий меч
+106;Weapon / Оружие;Sickle; Серп
+107;Weapon / Оружие;Sling; Праща
+108;Weapon / Оружие;Spear; Копьё
+109;Weapon / Оружие;Trident; Трезубец
+110;Weapon / Оружие;War pick; Боевая кирка
+111;Weapon / Оружие;Warhammer; Боевой молот
+112;Weapon / Оружие;Whip; Кнут
+113;Spells / Заклинания;Acid splash; Брызги кислоты
+114;Spells / Заклинания;Aid; Подмога
+115;Spells / Заклинания;Alarm; Сигнал тревоги
+116;Spells / Заклинания;Alter self; Смена обличья
+117;Spells / Заклинания;Animal friendship; Дружба с животными
+118;Spells / Заклинания;Animal messenger; Почтовое животное
+119;Spells / Заклинания;Animal shapes; Превращение в животных
+120;Spells / Заклинания;Animate dead; Восставший труп
+121;Spells / Заклинания;Animate objects; Оживление вещей
+122;Spells / Заклинания;Antilife shell; Преграда жизни
+123;Spells / Заклинания;Antimagic field; Преграда магии
+124;Spells / Заклинания;Antipathy/sympathy; Антипатия/симпатия
+125;Spells / Заклинания;Arcane eye; Магический глаз
+126;Spells / Заклинания;Arcane gate; Магические врата
+127;Spells / Заклинания;Arcane lock; Волшебный замок
+128;Spells / Заклинания;Armor of Agathys; Доспех Агатиса
+129;Spells / Заклинания;Arms of Hadar; Руки Хадара
+130;Spells / Заклинания;Astral projection; Проекция в астрал
+131;Spells / Заклинания;Augury; Гадание
+132;Spells / Заклинания;Aura of life; Аура жизни
+133;Spells / Заклинания;Aura of purity; Аура очищения
+134;Spells / Заклинания;Aura of vitality; Аура живучести
+135;Spells / Заклинания;Awaken; Пробуждение разума
+136;Spells / Заклинания;Bane; Порча
+137;Spells / Заклинания;Banishing smite; Изгоняющая кара
+138;Spells / Заклинания;Banishment; Изгнание
+139;Spells / Заклинания;Barkskin; Дубовая кора
+140;Spells / Заклинания;Beacon of hope; Маяк надежды
+141;Spells / Заклинания;Beast sense; Животные чувства
+142;Spells / Заклинания;Bestow curse; Проклятие
+143;Spells / Заклинания;Bigby’s hand; Длань Бигби
+144;Spells / Заклинания;Blade barrier; Стена клинков
+145;Spells / Заклинания;Blade ward; Защита от оружия
+146;Spells / Заклинания;Bless; Благословение
+147;Spells / Заклинания;Blight; Усыхание
+148;Spells / Заклинания;Blinding smite; Ослепляющая кара
+149;Spells / Заклинания;Blindness/deafness; Глухота/слепота
+150;Spells / Заклинания;Blink; Мерцание
+151;Spells / Заклинания;Blur; Размытый образ
+152;Spells / Заклинания;Branding smite; Клеймящая кара
+153;Spells / Заклинания;Burning hands; Огненные ладони
+154;Spells / Заклинания;Call lightning; Призыв молнии
+155;Spells / Заклинания;Calm emotions; Умиротворение
+156;Spells / Заклинания;Chain lightning; Пляшущая молния
+157;Spells / Заклинания;Charm person; Очарование личности
+158;Spells / Заклинания;Chill touch; Леденящее прикосновение
+159;Spells / Заклинания;Chromatic orb; Цветной шарик
+160;Spells / Заклинания;Circle of death; Круг смерти
+161;Spells / Заклинания;Circle of power; Круг силы
+162;Spells / Заклинания;Clairvoyance; Подсматривание
+163;Spells / Заклинания;Clone; Двойник
+164;Spells / Заклинания;Cloud of daggers; Облако кинжалов
+165;Spells / Заклинания;Cloudkill; Облако смерти
+166;Spells / Заклинания;Color spray; Сверкающие брызги
+167;Spells / Заклинания;Command; Приказ
+168;Spells / Заклинания;Commune; Общение
+169;Spells / Заклинания;Commune with nature; Общение с природой
+170;Spells / Заклинания;Compelled duel; Вызов на дуэль
+171;Spells / Заклинания;Comprehend languages; Понимание языков
+172;Spells / Заклинания;Compulsion; Принуждение
+173;Spells / Заклинания;Cone of cold; Конус холода
+174;Spells / Заклинания;Confusion; Смятение
+175;Spells / Заклинания;Conjure animals; Призыв животных
+176;Spells / Заклинания;Conjure barrage; Призыв заграждения
+177;Spells / Заклинания;Conjure celestial; Призыв небожителя
+178;Spells / Заклинания;Conjure elemental; Призыв элементаля
+179;Spells / Заклинания;Conjure fey; Призыв феи
+180;Spells / Заклинания;Conjure minor elementals; Призыв малых элементалей
+181;Spells / Заклинания;Conjure volley; Призыв залпа
+182;Spells / Заклинания;Conjure woodland beings; Призыв лесных обитателей
+183;Spells / Заклинания;Contact other plane; Связь с иным миром
+184;Spells / Заклинания;Contagion; Заражение
+185;Spells / Заклинания;Contingency; Предосторожность
+186;Spells / Заклинания;Continual flame; Вечный огонь
+187;Spells / Заклинания;Control water; Власть над водами
+188;Spells / Заклинания;Control weather; Власть над погодой
+189;Spells / Заклинания;Cordon of arrows; Завеса стрел
+190;Spells / Заклинания;Counterspell; Контрзаклинание
+191;Spells / Заклинания;Create food and water; Сотворение пищи и воды
+192;Spells / Заклинания;Create or destroy water; Сотворение или уничтожение воды
+193;Spells / Заклинания;Create undead; Сотворение нежити
+194;Spells / Заклинания;Creation; Сотворение
+195;Spells / Заклинания;Crown of madness; Корона безумия
+196;Spells / Заклинания;Crusader's mantle; Мантия крестоносца
+197;Spells / Заклинания;Cure wounds; Лечение ран
+198;Spells / Заклинания;Dancing lights; Пляшущие огоньки
+199;Spells / Заклинания;Darkness; Тьма
+200;Spells / Заклинания;Darkvision; Тёмное зрение
+201;Spells / Заклинания;Daylight; Дневной свет
+202;Spells / Заклинания;Death ward; Защита от смерти
+203;Spells / Заклинания;Delayed blast fireball; Замедленный огненный шар
+204;Spells / Заклинания;Demiplane; Демиплан
+205;Spells / Заклинания;Destructive wave; Разрушительная волна
+206;Spells / Заклинания;Detect evil and good; Обнаружение добра и зла
+207;Spells / Заклинания;Detect magic; Обнаружение магии
+208;Spells / Заклинания;Detect poison and disease; Обнаружение болезней и яда
+209;Spells / Заклинания;Detect thoughts; Обнаружение мыслей
+210;Spells / Заклинания;Dimension door; Переносящая дверь
+211;Spells / Заклинания;Disguise self; Маскировка
+212;Spells / Заклинания;Disintegrate; Распад
+213;Spells / Заклинания;Dispel evil and good; Рассеивание добра и зла
+214;Spells / Заклинания;Dispel magic; Рассеивание магии
+215;Spells / Заклинания;Dissonant whisper; Диссонирующий шёпот
+216;Spells / Заклинания;Divination; Предсказание
+217;Spells / Заклинания;Divine favor; Божественное благоволение
+218;Spells / Заклинания;Divine word; Божественное слово
+219;Spells / Заклинания;Dominate beast; Подчинение зверя
+220;Spells / Заклинания;Dominate monster; Подчинение чудовища
+221;Spells / Заклинания;Dominate person; Подчинение личности
+222;Spells / Заклинания;Drawmij’s instant summons; Дромиджево появление
+223;Spells / Заклинания;Dream; Вещий сон
+224;Spells / Заклинания;Druidcraft; Искусство друидов
+225;Spells / Заклинания;Earthquake; Землетрясение
+226;Spells / Заклинания;Eldritch blast; Мистический заряд
+227;Spells / Заклинания;Elemental weapon; Стихийное оружие
+228;Spells / Заклинания;Enhance ability; Улучшение характеристики
+229;Spells / Заклинания;Enlarge/reduce; Увеличение/уменьшение
+230;Spells / Заклинания;Ensnaring strike; Опутывающий удар
+231;Spells / Заклинания;Entangle; Опутывание
+232;Spells / Заклинания;Enthrall; Речь златоуста
+233;Spells / Заклинания;Etherealness; Эфирность
+234;Spells / Заклинания;Evard's black tentackles; Эвардовы чёрные щупальца
+235;Spells / Заклинания;Expeditious retreat; Поспешное отступление
+236;Spells / Заклинания;Eyebite; Разящее око
+237;Spells / Заклинания;Fabricate; Изготовление
+238;Spells / Заклинания;Faerie fire; Огонь фей
+239;Spells / Заклинания;False life; Псевдожизнь
+240;Spells / Заклинания;Fear; Ужас
+241;Spells / Заклинания;Feather fall; Падение пёрышком
+242;Spells / Заклинания;Feeblemind; Слабоумие
+243;Spells / Заклинания;Feign death; Притворная смерть
+244;Spells / Заклинания;Find familiar; Поиск фамильяра
+245;Spells / Заклинания;Find steed; Поиск скакуна
+246;Spells / Заклинания;Find the path; Поиск пути
+247;Spells / Заклинания;Find traps; Поиск ловушек
+248;Spells / Заклинания;Finger of death; Перст смерти
+249;Spells / Заклинания;Fire bolt; Огненный снаряд
+250;Spells / Заклинания;Fire shield; Огненный щит
+251;Spells / Заклинания;Fire storm; Огненная буря
+252;Spells / Заклинания;Fireball; Огненный шар
+253;Spells / Заклинания;Flame blade; Горящий клинок
+254;Spells / Заклинания;Flame strike; Небесный огонь
+255;Spells / Заклинания;Flaming sphere; Пылающий шар
+256;Spells / Заклинания;Flesh to stone; Окаменение
+257;Spells / Заклинания;Fly; Полёт
+258;Spells / Заклинания;Fog cloud; Туманное облако
+259;Spells / Заклинания;Forbiddance; Запрет
+260;Spells / Заклинания;Forcecage; Узилище
+261;Spells / Заклинания;Foresight; Предвидение
+262;Spells / Заклинания;Freedom of movement; Свобода перемещения
+263;Spells / Заклинания;Friends; Дружба
+264;Spells / Заклинания;Gaseous form; Газообразная форма
+265;Spells / Заклинания;Gate; Врата
+266;Spells / Заклинания;Geas; Обет
+267;Spells / Заклинания;Gentle repose; Нетленные останки
+268;Spells / Заклинания;Giant insect; Гигантское насекомое
+269;Spells / Заклинания;Glibness; Находчивость
+270;Spells / Заклинания;Globe of invulnerability; Сфера неуязвимости
+271;Spells / Заклинания;Glyph of warding; Охранные руны
+272;Spells / Заклинания;Goodberry; Чудо-ягоды
+273;Spells / Заклинания;Grasping vine; Цепкая лоза
+274;Spells / Заклинания;Grease; Скольжение
+275;Spells / Заклинания;Greater invisibility; Высшая невидимость
+276;Spells / Заклинания;Greater restoration; Высшее восстановление
+277;Spells / Заклинания;Guardian of faith; Страж веры
+278;Spells / Заклинания;Guards and wards; Стражи
+279;Spells / Заклинания;Guidance; Указание
+280;Spells / Заклинания;Guiding bolt; Направленный снаряд
+281;Spells / Заклинания;Gust of wind; Порыв ветра
+282;Spells / Заклинания;Hail of thorns; Град шипов
+283;Spells / Заклинания;Hallow; Святилище
+284;Spells / Заклинания;Hallucinatory terrain; Мираж
+285;Spells / Заклинания;Harm; Поражение
+286;Spells / Заклинания;Haste; Ускорение
+287;Spells / Заклинания;Heal; Полное исцеление
+288;Spells / Заклинания;Healing word; Лечащее слово
+289;Spells / Заклинания;Heat metal; Раскалённый металл
+290;Spells / Заклинания;Hellish rebuke; Адское возмездие
+291;Spells / Заклинания;Heroes’ feast; Пир героев
+292;Spells / Заклинания;Heroism; Героизм
+293;Spells / Заклинания;Hex; Сглаз
+294;Spells / Заклинания;Hold monster; Удержание чудовища
+295;Spells / Заклинания;Hold person; Удержание личности
+296;Spells / Заклинания;Holy aura; Аура святости 
+297;Spells / Заклинания;Hunger of Hadar; Голод Хадара
+298;Spells / Заклинания;Hunter's mark; Метка охотника
+299;Spells / Заклинания;Hypnotic pattern; Гипнотический узор
+300;Spells / Заклинания;Ice storm; Град
+301;Spells / Заклинания;Identify; Опознание
+302;Spells / Заклинания;Illusory script; Невидимое письмо
+303;Spells / Заклинания;Imprisonment; Заточение
+304;Spells / Заклинания;Incendiary cloud; Воспламеняющаяся туча
+305;Spells / Заклинания;Inflict wounds; Нанесение ран
+306;Spells / Заклинания;Insect plague; Нашествие насекомых
+307;Spells / Заклинания;Invisibility; Невидимость
+308;Spells / Заклинания;Jump; Прыжок
+309;Spells / Заклинания;Knock; Открывание
+310;Spells / Заклинания;Legend lore; Знание легенд
+311;Spells / Заклинания;Leomund’s secret chest; Леомундов потайной сундук
+312;Spells / Заклинания;Leomund’s tiny hut; Леомундова хижина
+313;Spells / Заклинания;Lesser restoration; Малое восстановление
+314;Spells / Заклинания;Levitate; Левитация
+315;Spells / Заклинания;Light; Свет
+316;Spells / Заклинания;Lightning arrow; Молниевая стрела
+317;Spells / Заклинания;Lightning bolt; Молния
+318;Spells / Заклинания;Locate animals or plants; Поиск животных или растений
+319;Spells / Заклинания;Locate creature; Поиск существа
+320;Spells / Заклинания;Locate object; Поиск предмета
+321;Spells / Заклинания;Longstrider; Скороход
+322;Spells / Заклинания;Mage armor; Доспехи мага
+323;Spells / Заклинания;Mage hand; Волшебная рука
+324;Spells / Заклинания;Magic circle; Магический круг
+325;Spells / Заклинания;Magic jar; Волшебный сосуд
+326;Spells / Заклинания;Magic missile; Волшебная стрела
+327;Spells / Заклинания;Magic mouth; Волшебные уста
+328;Spells / Заклинания;Magic weapon; Магическое оружие
+329;Spells / Заклинания;Major image; Образ
+330;Spells / Заклинания;Mass cure wounds; Множественное лечение ран
+331;Spells / Заклинания;Mass heal; Множественное полное исцеление
+332;Spells / Заклинания;Mass healing word; Множественное лечащее слово
+333;Spells / Заклинания;Mass suggestion; Множественное внушение
+334;Spells / Заклинания;Maze; Лабиринт
+335;Spells / Заклинания;Meld into stone; Слияние с камнем
+336;Spells / Заклинания;Melf's acid arrow; Мельфова кислотная стрела
+337;Spells / Заклинания;Mending; Починка
+338;Spells / Заклинания;Message; Сообщение
+339;Spells / Заклинания;Meteor swarm; Метеоритный дождь
+340;Spells / Заклинания;Mind blank; Сокрытие разума
+341;Spells / Заклинания;Minor illusion; Малая иллюзия
+342;Spells / Заклинания;Mirage arcane; Таинственный мираж
+343;Spells / Заклинания;Mirror image; Отражения
+344;Spells / Заклинания;Mislead; Фальшивый двойник
+345;Spells / Заклинания;Misty step; Туманный шаг
+346;Spells / Заклинания;Modify memory; Изменение памяти
+347;Spells / Заклинания;Moonbeam; Лунный луч
+348;Spells / Заклинания;Mordenkainen’s faithful hound; Верный пёс Морденкайнена
+349;Spells / Заклинания;Mordenkainen’s magnificent mansion; Великолепный особняк Морденкайнена
+350;Spells / Заклинания;Mordenkainen’s private sanctum; Кабинет Морденкайнена
+351;Spells / Заклинания;Mordenkainen’s sword; Меч Морденкайнена
+352;Spells / Заклинания;Move earth; Движение почвы
+353;Spells / Заклинания;Nondetection; Необнаружимость
+354;Spells / Заклинания;Nystul’s magic aura; Нистулова ложная аура
+355;Spells / Заклинания;Otiluke’s freezing sphere; Отилюков ледяной шар
+356;Spells / Заклинания;Otiluke’s resilient sphere; Отилюков упругий шар
+357;Spells / Заклинания;Otto’s irresistible dance; Неудержимая пляска Отто
+358;Spells / Заклинания;Pass without trace; Бесследное передвижение
+359;Spells / Заклинания;Passwall; Создание прохода
+360;Spells / Заклинания;Phantasmal force; Воображаемая сила
+361;Spells / Заклинания;Phantasmal killer; Воображаемый убийца
+362;Spells / Заклинания;Phantom steed; Прирачный скакун
+363;Spells / Заклинания;Planar ally; Планарный союзник
+364;Spells / Заклинания;Planar binding; Планарные узы
+365;Spells / Заклинания;Plane shift; Уход в иной мир
+366;Spells / Заклинания;Plant growth; Рост растений
+367;Spells / Заклинания;Poison spray; Ядовитые брызги
+368;Spells / Заклинания;Polymorph; Превращение
+369;Spells / Заклинания;Power word heal; Слово Силы: исцеление
+370;Spells / Заклинания;Power word kill; Слово Силы: смерть
+371;Spells / Заклинания;Power word stun; Слово Силы: оглушение
+372;Spells / Заклинания;Prayer of healing; Молебен лечения
+373;Spells / Заклинания;Prestidigitation; Фокусы
+374;Spells / Заклинания;Prismatic spray; Радужные брызги
+375;Spells / Заклинания;Prismatic wall; Радужная стена
+376;Spells / Заклинания;Produce flame; Сотворение пламени
+377;Spells / Заклинания;Programmed illusion; Заданная иллюзия
+378;Spells / Заклинания;Project image; Проекция
+379;Spells / Заклинания;Protection from energy; Защита от энергии
+380;Spells / Заклинания;Protection from evil and good; Защита от добра и зла
+381;Spells / Заклинания;Protection from poison; Защита от яда
+382;Spells / Заклинания;Purify food and drink; Очищение пищи и питья
+383;Spells / Заклинания;Raise dead; Оживление
+384;Spells / Заклинания;Rary’s telepathic bond; Ментальная связь Рэри
+385;Spells / Заклинания;Ray of enfeeblement; Луч слабости
+386;Spells / Заклинания;Ray of frost; Луч холода
+387;Spells / Заклинания;Ray of sickness; Луч болезни
+388;Spells / Заклинания;Regenerate; Регенерация
+389;Spells / Заклинания;Reincarnate; Реинкарнация
+390;Spells / Заклинания;Remove curse; Снятие проклятья
+391;Spells / Заклинания;Resistance; Сопротивление
+392;Spells / Заклинания;Resurrection; Воскрешение
+393;Spells / Заклинания;Reverse gravity; Изменение тяготения
+394;Spells / Заклинания;Revivify; Возрождение
+395;Spells / Заклинания;Rope trick; Трюк с верёвкой
+396;Spells / Заклинания;Sacred flame; Священное пламя
+397;Spells / Заклинания;Sanctuary; Убежище
+398;Spells / Заклинания;Scorching ray; Палящий луч
+399;Spells / Заклинания;Scrying; Наблюдение
+400;Spells / Заклинания;Searing smite; Палящая кара
+401;Spells / Заклинания;See invisibility; Видение невидимого
+402;Spells / Заклинания;Seeming; Притворство
+403;Spells / Заклинания;Sending; Послание
+404;Spells / Заклинания;Sequester; Изоляция
+405;Spells / Заклинания;Shapechange; Полное превращение
+406;Spells / Заклинания;Shatter; Дребезги
+407;Spells / Заклинания;Shield; Щит
+408;Spells / Заклинания;Shield of faith; Щит веры
+409;Spells / Заклинания;Shillelagh; Дубинка
+410;Spells / Заклинания;Shocking grasp; Электрошок
+411;Spells / Заклинания;Silence; Тишина
+412;Spells / Заклинания;Silent image; Безмолвный образ
+413;Spells / Заклинания;Simulacrum; Подобие 
+414;Spells / Заклинания;Sleep; Усыпление
+415;Spells / Заклинания;Sleet storm; Метель
+416;Spells / Заклинания;Slow; Замедление
+417;Spells / Заклинания;Spare the dying; Уход за умирающим
+418;Spells / Заклинания;Speak with animals; Разговор с животными
+419;Spells / Заклинания;Speak with dead; Разговор с мёртвыми
+420;Spells / Заклинания;Speak with plants; Разговор с растениями
+421;Spells / Заклинания;Spider climb; Паук
+422;Spells / Заклинания;Spike growth; Шипы
+423;Spells / Заклинания;Spirit guardians; Духовные стражи
+424;Spells / Заклинания;Spiritual weapon; Божественное оружие
+425;Spells / Заклинания;Staggering smite; Оглушающая кара
+426;Spells / Заклинания;Stinking cloud; Зловонное облако
+427;Spells / Заклинания;Stone shape; Изменение формы камня
+428;Spells / Заклинания;Stoneskin; Каменная кожа
+429;Spells / Заклинания;Storm of vengeance; Гроза гнева
+430;Spells / Заклинания;Suggestion; Внушение
+431;Spells / Заклинания;Sunbeam; Солнечный луч
+432;Spells / Заклинания;Sunburst; Солнечный ожог
+433;Spells / Заклинания;Swift quiver; Быстрый колчан
+434;Spells / Заклинания;Symbol; Знак
+435;Spells / Заклинания;Tasha's hideous laughter; Жуткий смех Таши
+436;Spells / Заклинания;Telekinesis; Телекинез
+437;Spells / Заклинания;Telepathy; Телепатия
+438;Spells / Заклинания;Teleport; Телепортация
+439;Spells / Заклинания;Teleportation circle; Круг телепортации
+440;Spells / Заклинания;Tenser’s floating disk; Тензеров парящий диск
+441;Spells / Заклинания;Thaumaturgy; Чудотворство
+442;Spells / Заклинания;Thorn whip; Терновый кнут
+443;Spells / Заклинания;Thunderous smite; Громовая кара
+444;Spells / Заклинания;Thunderwave; Волна грома
+445;Spells / Заклинания;Time stop; Остановка времени
+446;Spells / Заклинания;Tongues; Языки
+447;Spells / Заклинания;Transport via plants; Путешествие через растения
+448;Spells / Заклинания;Tree stride; Древесный путь
+449;Spells / Заклинания;True polymorph; Истинное превращение
+450;Spells / Заклинания;True resurrection; Истинное воскрешение
+451;Spells / Заклинания;True seeing; Истинное зрение
+452;Spells / Заклинания;True strike; Меткий удар
+453;Spells / Заклинания;Tsunami; Цунами
+454;Spells / Заклинания;Unseen servant; Невидимый слуга
+455;Spells / Заклинания;Vampiric touch; Прикосновение вампира
+456;Spells / Заклинания;Vicious mockery; Злая насмешка
+457;Spells / Заклинания;Wall of fire; Огненная стена
+458;Spells / Заклинания;Wall of force; Силовая стена
+459;Spells / Заклинания;Wall of ice; Ледяная стена
+460;Spells / Заклинания;Wall of stone; Каменная стена
+461;Spells / Заклинания;Wall of thorns; Терновая стена
+462;Spells / Заклинания;Warding bond; Охраняющая связь
+463;Spells / Заклинания;Water breathing; Подводное дыхание
+464;Spells / Заклинания;Water walk; Хождение по воде
+465;Spells / Заклинания;Web; Паутина
+466;Spells / Заклинания;Weird; Смертный ужас
+467;Spells / Заклинания;Wind walk; Хождение по ветру
+468;Spells / Заклинания;Wind wall; Стена ветров
+469;Spells / Заклинания;Wish; Исполнение желаний
+470;Spells / Заклинания;Witch bolt; Ведьмин снаряд
+471;Spells / Заклинания;Word of recall; Слово возврата
+472;Spells / Заклинания;Wrathful smite; Гневная кара
+473;Spells / Заклинания;Zone of truth; Область истины 

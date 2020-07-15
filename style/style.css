@@ -1,0 +1,77 @@
+main{
+    max-width: 1000px;
+    margin: auto;
+}
+
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.table-title{
+    display:inline-block;
+    /* float: left; */
+}
+
+.spoil {
+    display:inline-block;
+    /* float: left; */
+    background-image: url(../img/spoil2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 15px;
+    height: 15px;
+    margin-top: 6px;
+}
+
+#spoil-down-all{
+    cursor: pointer
+}
+
+#spoil-up-all{
+    cursor: pointer 
+}
+
+spoil-table{
+    display: block;
+}
+
+tr:hover{
+    border: solid;
+}
+
+.info-button{
+    background-image: url(../img/info.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+.clickability{
+    cursor: pointer 
+}
+
+.bar {
+    z-index: 1000;
+    height: 100%;
+    width: 200px;
+    background-color: #f7f7f7;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.switch-bar {
+    background-color: red;
+    display: block;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: -30px;
+    top: 0px;
+}
